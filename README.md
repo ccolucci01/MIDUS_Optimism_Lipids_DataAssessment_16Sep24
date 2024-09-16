@@ -1,4 +1,6 @@
 # MIDUS_Optimism_Lipids_DataAssessment_16Sep24
-Midus evaluation for the final project (section 7.2)
-1.	Objective: The purpose of this study was to assess the relationship between optimism and lipids using biomarker data. The associated data was reviewed as part of this final assessment, and all data was present using MIDUS II data. 
-4.	Background:	A study was conducted by Boehm et al., where the relationship between optimism and lipids using MIDUS II data were assessed. This study reviewed biomarker data relevance, and related this back to specific variables that they correlated with optimism and lipids. 
+Introduction: The purpose of this study was to assess the relationship between optimism and lipids using biomarker data. The associated data was reviewed as part of this final assessment, and all data was present using MIDUS II data.
+Background: A study was conducted by Boehm et al., where the relationship between optimism and lipids using MIDUS II data were assessed. This study reviewed biomarker data relevance, and related this back to specific variables that they correlated with optimism and lipids. 
+Methods: In 1995, MIDUS survey data was evaluated from 7,108 inviduals. Baselines were collected adn eligible participants were selected. A phone interview was conducted as well as a questionnaire. The final evaluation assessed biomarker data from indvidiuals, and evaluated relationships bewtween this data, optimism, and lipids. 
+Results: After reviewing the data from the archive at ICPSR, all data was cleaned and assessed. I conducted a regression analysis from teh article, and assessed coorelation as well. 
+Discussion: THe data was publically available, easy to find, and was organized. I disliked the naming conventions used, as this made assessments a bit more challenging. 
